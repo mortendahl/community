@@ -1,45 +1,35 @@
-# SIG Privacy or SIG Secure
+# Proposed name: SIG-??????
 
 ## Objective
 
-Privacy and security are becoming important aspects of machine learning, with maturing tools and techniques entering industry from academia.
-
-This group facilitates discussion, cross-field collaboration, and concrete functionality in TensorFlow.
-
-## Scope
-
-The group is concerned with discussion and functionality fitting the following criteria:
-
-- Applications of privacy in machine learning
-- Improving accessible of tools and techniques
-- Useful for industrial and academic researchers in privacy
-- High-level abstractions and APIs
-- Conforms to established API patterns in TensorFlow
-- Self-contained or proxy for external projects
-- Follows code and documentation standards
-- Not otherwise available in TensorFlow
+One or two sentences describing the group's purpose.
 
 ## Membership
 
-Everybody with an interest in helping bring privacy to TensorFlow is welcome to join the SIG. To participate, request an invitation to join the mailing list. Archives of the mailing list are publicly accessible.
+*Who can join? How can they join? Who can read the group's activity?*
+
+Example:
+
+> Everyone involved in the packaging, distributing or embedding of TensorFlow is
+> welcome to join the group. To participate, request an invitation to join the
+> mailing list. Archives of the mailing list will be publicly accessible.
 
 ## Resources
 
-- SIG Privacy mailing list: privacy@tensorflow.org
-- Repository maintained by SIG Privacy: github.com/tensorflow/privacy
-- Repository maintained by SIG Privacy: github.com/tensorflow/federated
-- Repository maintained by SIG Privacy: github.com/tensorflow/encrypted
-- Slack? Gitter?
+*Links to essential resources: proposed mailing list, Github repo, key documents, etc.*
 
 ## Contacts
 
-- Project leads:
-  - A N Other [@githubhandle](https://github.com/githubhandle)
-  - another at companyname*
-- Google Brain contact?
-- For administrative questions, contact Edd Wilder-James
+*Minimum highlight a group leader, and somebody to reach out to for
+administrative purposes*
+
+* *Project lead: A N Other [@githubhandle](https://github.com/githubhandle) -
+  another at companyname*
+* For administrative questions, contact Edd Wilder-James
   [@ewilderj](https://github.com/ewilderj) - ewj at google
 
 ## Code of Conduct
 
-As with all forums and spaces related to TensorFlow, SIG Privacy is subject to the [TensorFlow Code of Conduct](https://github.com/tensorflow/tensorflow/blob/master/CODE_OF_CONDUCT.md).
+As with all forums and spaces related to TensorFlow, SIG-?????? is subject to
+the [TensorFlow Code of
+Conduct](https://github.com/tensorflow/tensorflow/blob/master/CODE_OF_CONDUCT.md).
